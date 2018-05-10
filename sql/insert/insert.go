@@ -1,6 +1,6 @@
 package main
 
-import (7
+import (
 	"database/sql"
 	"fmt"
 
